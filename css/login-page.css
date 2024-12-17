@@ -1,0 +1,41 @@
+/* WP-Login Page */
+
+body.login.js.login-action-login.wp-core-ui.locale-de-de {
+    background-color: #111111 !important;
+}
+
+.login h1 a {
+    background-image: url(/wp-content/uploads/2024/01/ACTIVE-DOG-CONCEPT-DRESDEN.webp-WM.webp) !important;
+    background-size: 250px !important;
+	width: 100% !important;
+	height: 150px;
+    background-position: center;
+}
+
+.login form {
+    background-color: #000000 !important;
+    color: #FFFFFF !important;
+    border-radius: 5px !important;
+}
+
+.login form .input, .login form input[type=checkbox], .login input[type=text] {
+    background: #1d1d1d !important;
+    color: #c0c0c0 !important;
+}
+
+#language-switcher {
+    background-color: #111111 !important;
+}
+
+#language-switcher select {
+    background: #1d1d1d !important;
+    color: #c0c0c0 !important;
+}
+
+.login .language-switcher .button {
+    background-color: transparent !important;
+}
+
+#wfls-prompt-overlay {
+    background-color: #000 !important;
+}
